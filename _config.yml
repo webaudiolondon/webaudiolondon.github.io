@@ -1,0 +1,12 @@
+# Site settings
+title: Web Audio London
+email: calum@calumgunn.com
+description: > # this means to ignore newlines until "baseurl:"
+  A meetup for internet audio nerds in London.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://webaudiolondon.co.uk" # the base hostname & protocol for your site
+twitter_username: webaudiolondon
+github_username:  calumgunn
+
+# Build settings
+markdown: kramdown
